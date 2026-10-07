@@ -103,3 +103,5 @@ streamlit run app.py
 Aplikacja otworzy się w przeglądarce pod adresem `http://localhost:8501`.
 
 ---
+
+<p align="center"> <sub>Repozytorium powstało przez scalenie osobnych repozytoriów projektowych z zachowaniem pełnej historii commitów.</sub> </p>
